@@ -10,8 +10,6 @@ export const SegundoComponente = () => {
     const cambiarnombre = (nuevonombre) =>{
         setnombre(nuevonombre);
     }
-
-
   return (
     <div>
         <p>
